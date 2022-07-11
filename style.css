@@ -1,0 +1,15 @@
+header {
+    background-color: black;
+}
+a {
+    font-size: large;
+    color: white;
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.footer-alamat {
+    color: white;
+}
